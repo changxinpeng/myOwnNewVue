@@ -1,4 +1,4 @@
-# myownnewvue
+# mynewpro
 
 ## Project setup
 ```
