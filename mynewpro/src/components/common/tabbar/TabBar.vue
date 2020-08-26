@@ -1,10 +1,12 @@
 <template>
-  
+  <div id="tab-bar">
+    <slot></slot>
+  </div>
 </template>
 
 <script>
   export default {
-    name: "",
+    name: "TabBar",
     components: {
       
     },
@@ -20,5 +22,5 @@
 </script>
 
 <style scoped>
-
+  
 </style>
